@@ -1,10 +1,10 @@
-# WEB103 Project 3 - *Name of App Here*
+# WEB103 Project 3 - Hackathon view
 
-Submitted by: **Your name here**
+Submitted by: George Liu
 
 About this web app: **App description here**
 
-Time spent: **X** hours
+Time spent: **2** hours
 
 ## Required Features
 
