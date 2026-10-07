@@ -36,14 +36,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='(https://imgur.com/a/DVRdTWv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+sonnn=> SELECT * FROM locations;
+ id |                 name                 |        address         |  city  | state |  zip  |                        image
+----+--------------------------------------+------------------------+--------+-------+-------+-----------------------------------------------------
+  1 | Echo Lounge & Music Hall             | 1323 N Stemmons Fwy    | Dallas | TX    | 75207 | https://picsum.photos/seed/echolounge/600/400
+  2 | House of Blues                       | 2200 N Lamar St        | Dallas | TX    | 75202 | https://picsum.photos/seed/houseofblues/600/400
+  3 | The Pavilion at Toyota Music Factory | 300 W Las Colinas Blvd | Irving | TX    | 75039 | https://picsum.photos/seed/pavilion/600/400
+  4 | American Airlines Center             | 2500 Victory Ave       | Dallas | TX    | 75219 | https://picsum.photos/seed/americanairlines/600/400
+(4 rows)
 
 ## Notes
 
